@@ -46,19 +46,24 @@ section {
 
 .main {
     width: 100%;
-    min-height: 100vh;
-    display: flex;
+    min-height: 50vh;
+    display: inline-flex;
     align-items: center;
     background: url(images/background.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+   
     
 }
 .mr {
-    height: 579px;
-    position: relative;
-    float:right;
+    height: 512px;
+    float: right;
+    
+    
+   
+
+   
 }
 
 .main h2 {
