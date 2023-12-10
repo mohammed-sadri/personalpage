@@ -58,6 +58,7 @@ section {
 .mr {
     height: 579px;
     position: relative;
+    float:right;
 }
 
 .main h2 {
